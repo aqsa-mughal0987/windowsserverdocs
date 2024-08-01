@@ -1,4 +1,4 @@
-# Windows Server Documentation
+
 
 Welcome to the open source documentation of Microsoft Windows Server. Contributing to open source is more than just providing updates, it's also letting us know when there's an issue.
 
